@@ -41,7 +41,7 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 
 ___
 
-# Visit us at [aquarius.academy](https://aquarius.academy)
+## Visit us at [aquarius.academy](https://aquarius.academy)
 
 
 
