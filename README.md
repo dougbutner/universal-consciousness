@@ -9,7 +9,7 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 
 # Lessons
 
-1. Introduction
+1. [Introduction](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/1.%20Introduction.md)
 2. Course Overview
 3. Disclaimer
 4. Universal Matrices
@@ -57,5 +57,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTQ2NjE4NV19
+eyJoaXN0b3J5IjpbMTU1NTE0NzcxXX0=
 -->
