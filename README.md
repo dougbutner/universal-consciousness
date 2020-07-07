@@ -40,14 +40,14 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 ## You can enroll in these courses for free here: [aquarius.academy/all-courses](https://aquarius.academy/all-courses)
 
 ___
-<center>
+
 # Visit us at [aquarius.academy](https://aquarius.academy)
 
-</center>
+
 
 ![](https://cdn-images-1.medium.com/max/2160/1*wgZ678QUqo_Ue3y2S-FHBQ.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NjQ1NDMwLDE1NTUxNDc3MV19
+eyJoaXN0b3J5IjpbLTgzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
 -->
