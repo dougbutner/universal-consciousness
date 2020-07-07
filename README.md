@@ -4,7 +4,16 @@
 # Instructions
 Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/master/The%207-11-12%20Model%20of%20Universal%20Consciousness) in this repo to read all of the lessons in .md format, right here on Github
 
+# Lessons
 
+1. Introduction
+2. Course Overview
+3. Disclaimer
+4. Universal Matrices
+5. Dimensions of Reality
+6. 
+
+# More Info
 ## This video course will be available soon, alongside our other free courses. 
 
 ![Screenshot 20200706 14.12.28.png](https://files.peakd.com/file/peakd-hive/aquarius.academy/wWAHbnus-Screenshot202020-07-062014.12.28.png)
@@ -40,8 +49,6 @@ ___
 </center>
 
 
-**Note: This is NOT a bot, so reply if you have questions, or just want to say Hi!!**
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzU2NzI2OV19
+eyJoaXN0b3J5IjpbMTU2MDM0ODM1MF19
 -->
