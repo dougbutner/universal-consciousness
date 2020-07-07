@@ -47,15 +47,7 @@ ___
 
 ![](https://cdn-images-1.medium.com/max/2160/1*wgZ678QUqo_Ue3y2S-FHBQ.png)
 
-    The Aquarius Academy provides a catalyst for collective consciousness connection. 🌎 💞 🌞 💞 🌌
-
-    "To know thyself is to know the one." ♾️
-
-<center>
-👉 Explore & Enjoy our free courses at **[aquarius.academy/all-courses](https://aquarius.academy/all-courses)** 👈 👀
-</center>
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NDkzNTUsMTU1NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbMjc3NjQ1NDMwLDE1NTUxNDc3MV19
 -->
