@@ -2,7 +2,7 @@
 ## The 7-11-12 Model of Universal Consciousness: Dimensions,  Densities, and Matrices
 
 # About This Repo
-This repo holds a summary of a model of universal structure and consciousness. All lessons are in Markdown format, with images where 
+This repo holds a summary of a model of universal structure and consciousness. All lessons are in Markdown format, with images and sources where applicable.
 
 # Instructions
 Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/master/The%207-11-12%20Model%20of%20Universal%20Consciousness) in this repo to read all of the lessons in .md format, right here on Github
@@ -47,6 +47,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2NjkxOTc3LC04Mzk2MTcyMDMsMTU1NT
-E0NzcxXX0=
+eyJoaXN0b3J5IjpbMjAwNDYwMjA2MSwtODM5NjE3MjAzLDE1NT
+UxNDc3MV19
 -->
