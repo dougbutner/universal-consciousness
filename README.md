@@ -1,5 +1,8 @@
-# universal-consciousness
-The 7-11-12 Model of Universal Consciousness: Dimensions,  Densities, and Matrices
+# Universal Consciousness
+## The 7-11-12 Model of Universal Consciousness: Dimensions,  Densities, and Matrices
+
+# Instructions
+Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/master/The%207-11-12%20Model%20of%20Universal%20Consciousness) in this repo to read all of the lessons in .md format, right here on Github
 
 
 ## This video course will be available soon, alongside our other free courses. 
@@ -19,11 +22,6 @@ The 7-11-12 Model of Universal Consciousness: Dimensions,  Densities, and Matric
 5. Smiling to Success
 
 ## You can enroll in these courses for free here: [aquarius.academy/all-courses](https://aquarius.academy/all-courses)
-
-## Our next course is called "Intro to Universal Consciousness" 
-
-..where we go over the 7-11-12 (Dimension-Density-Matrix) model of universal consciousness. You can read it on Github [here](https://github.com/dougbutner/universal-consciousness/tree/master/The%207-11-12%20Model%20of%20Universal%20Consciousness), or check back at on aquarius.academy for it's release 
-
 
 ___
 <center>
@@ -45,5 +43,5 @@ ___
 **Note: This is NOT a bot, so reply if you have questions, or just want to say Hi!!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxODk5MjcwXX0=
+eyJoaXN0b3J5IjpbLTc2MzU2NzI2OV19
 -->
