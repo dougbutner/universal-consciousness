@@ -41,13 +41,12 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 
 ___
 
-## Visit us at [aquarius.academy](https://aquarius.academy)
-
-
-
 ![](https://cdn-images-1.medium.com/max/2160/1*wgZ678QUqo_Ue3y2S-FHBQ.png)
+
+___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
+eyJoaXN0b3J5IjpbNTg2NjkxOTc3LC04Mzk2MTcyMDMsMTU1NT
+E0NzcxXX0=
 -->
