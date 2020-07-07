@@ -10,15 +10,15 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 # Lessons
 
 1. [Introduction](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/1.%20Introduction.md)
-2. Course Overview
-3. Disclaimer
-4. Universal Matrices
+2. [Course Overview](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/2.%20Course%20Overview.md)
+3. [Disclaimer](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/3.%20Disclaimer.md)
+4. [Universal Matrices](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/4.%20Universal%20Matrices.md)
 5. Dimensions of Reality
 6. Densities of Consciousness
 7. Densities and Spirituality
 8. Grids
 9. Putting it All Together
-10. Outro 
+10. [Outro](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/10.%20Outro.md) 
 
 # More Info
 ## This video course will be available soon, alongside our other free courses. 
@@ -57,5 +57,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbMTY0Mzc5MDgyLDE1NTUxNDc3MV19
 -->
