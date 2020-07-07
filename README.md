@@ -1,6 +1,9 @@
 # Universal Consciousness
 ## The 7-11-12 Model of Universal Consciousness: Dimensions,  Densities, and Matrices
 
+# About This Repo
+This repo holds a summary of a model of universal structur
+
 # Instructions
 Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/master/The%207-11-12%20Model%20of%20Universal%20Consciousness) in this repo to read all of the lessons in .md format, right here on Github
 
@@ -11,7 +14,11 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 3. Disclaimer
 4. Universal Matrices
 5. Dimensions of Reality
-6. 
+6. Densities of Consciousness
+7. Densities and Spirituality
+8. Grids
+9. Putting it All Together
+10. Outro 
 
 # More Info
 ## This video course will be available soon, alongside our other free courses. 
@@ -50,5 +57,5 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDM0ODM1MF19
+eyJoaXN0b3J5IjpbMTE0MDM4MzA2NF19
 -->
