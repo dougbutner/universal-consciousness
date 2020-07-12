@@ -34,7 +34,9 @@ Lesson:  **Dimensions**
 
 # Video Course Image Credits
 
-[Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) 
+[ Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) by Maria Celeste G VelAja TalaLei
+
+
 
 
 # About Aquarius Academy
@@ -65,7 +67,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4OTMyOTMsLTE1NDU0NjIxMCwxND
-M3NTU0NzUzLDE1MjAyOTA3MTIsMjAwNDYwMjA2MSwtODM5NjE3
-MjAzLDE1NTUxNDc3MV19
+eyJoaXN0b3J5IjpbMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mz
+c1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcy
+MDMsMTU1NTE0NzcxXX0=
 -->
