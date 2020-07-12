@@ -29,7 +29,7 @@ In the original script I included information (Source: Aridif) about how Archang
 
 **Clarification: 0th and 10th dimension are the same**
 Lesson:  **Dimensions**
-0th and 10th dimensionality are both the omnipresence connecting all. They are both conceptually 
+0th and 10th dimensionality are both the omnipresence connecting All. They are  conceptually the same, like 360° and 0° on a circle
 
 
 # About Aquarius Academy
@@ -60,7 +60,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzAxMTQ5MSwxNDM3NTU0NzUzLDE1Mj
+eyJoaXN0b3J5IjpbMTk1MDk0Mjk4NCwxNDM3NTU0NzUzLDE1Mj
 AyOTA3MTIsMjAwNDYwMjA2MSwtODM5NjE3MjAzLDE1NTUxNDc3
 MV19
 -->
