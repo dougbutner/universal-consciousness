@@ -32,6 +32,11 @@ Lesson:  **Dimensions**
 0th and 10th dimensionality are both the omnipresence connecting All. They are the same, like 360° and 0° on a circle, though in this case the circle is a torus.
 
 
+# Video Course Image Credits
+
+[Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) 
+
+
 # About Aquarius Academy
 Aquarius Academy serves as a catalyst for collective consciousness connection. "Aquarius" is our current astrological age, and the "Academy" is the conscious connection happening throughout the Milky Way in this age.
 ## Here are some of our other courses
@@ -60,7 +65,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU0NjIxMCwxNDM3NTU0NzUzLDE1Mj
-AyOTA3MTIsMjAwNDYwMjA2MSwtODM5NjE3MjAzLDE1NTUxNDc3
-MV19
+eyJoaXN0b3J5IjpbLTE0ODY4OTMyOTMsLTE1NDU0NjIxMCwxND
+M3NTU0NzUzLDE1MjAyOTA3MTIsMjAwNDYwMjA2MSwtODM5NjE3
+MjAzLDE1NTUxNDc3MV19
 -->
