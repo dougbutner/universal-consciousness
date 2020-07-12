@@ -23,7 +23,7 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 # Errata / Clarifications
 
 Clarification: Archangels in the Upper Matrices
-Lesson: Universal Matriciex
+Lesson:  Matrices
 
 # About Aquarius Academy
 Aquarius Academy serves as a catalyst for collective consciousness connection. "Aquarius" is our current astrological age, and the "Academy" is the conscious connection happening throughout the Milky Way in this age.
@@ -53,6 +53,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc1OTU1NTksMTUyMDI5MDcxMiwyMD
+eyJoaXN0b3J5IjpbLTE5MzYwOTIxNjYsMTUyMDI5MDcxMiwyMD
 A0NjAyMDYxLC04Mzk2MTcyMDMsMTU1NTE0NzcxXX0=
 -->
