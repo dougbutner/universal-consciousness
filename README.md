@@ -20,7 +20,8 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 9. [Putting it All Together](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/9.%20Putting%20it%20All%20Together.md)
 10. [Outro](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/10.%20Outro.md) 
 
-# More Info
+# About Aquarius Academy
+Aquarius Academy serves as a catalyst for collective consciousness connection. "Aquarius" is our current astrological age, and "Academy" is the teachings 
 ## This video course will be available soon, alongside our other free courses. 
 
 ![Screenshot 20200706 14.12.28.png](https://files.peakd.com/file/peakd-hive/aquarius.academy/wWAHbnus-Screenshot202020-07-062014.12.28.png)
@@ -47,6 +48,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDYwMjA2MSwtODM5NjE3MjAzLDE1NT
-UxNDc3MV19
+eyJoaXN0b3J5IjpbMTQ4MTM5ODYyOCwyMDA0NjAyMDYxLC04Mz
+k2MTcyMDMsMTU1NTE0NzcxXX0=
 -->
