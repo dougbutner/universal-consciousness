@@ -22,11 +22,12 @@ Open the [folder](https://github.com/dougbutner/universal-consciousness/tree/mas
 
 # Errata / Clarifications
 
-**Clarification: Archangels in the Upper Matrices**
+**Clarification: Archangels in the Upper Matrices (Video Course Only)**
 Lesson:  Matrices
+When I wrote the script I included information (Source: Aridif) about how Archangles were from the 12th density. I decided to leave it out of the video version, but left it in this versio
 
 
-**Clarification: 0th and 10th **
+**Clarification: 0th and 10th dimension are the same**
 Lesson:  Matrices
 
 
@@ -58,6 +59,6 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTY3MzAyNCwxNTIwMjkwNzEyLDIwMD
+eyJoaXN0b3J5IjpbLTIyODY3Nzc1OSwxNTIwMjkwNzEyLDIwMD
 Q2MDIwNjEsLTgzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
 -->
