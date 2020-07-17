@@ -34,6 +34,8 @@ Lesson:  **Dimensions**
 **Clarification: 0th and 10th dimension are the unity point of every density level**
 For densities and dimensions to co-exist, 
 
+**Clarification: 4th, 5th, and 6 densities can have collective consciousness experiences**
+
 # Video Course Image Credits
 
 [ Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) by Maria Celeste G VelAja TalaLei
@@ -69,7 +71,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0Njc4ODUzLDE4NzY2OTE3MTEsLTE1ND
-U0NjIxMCwxNDM3NTU0NzUzLDE1MjAyOTA3MTIsMjAwNDYwMjA2
-MSwtODM5NjE3MjAzLDE1NTUxNDc3MV19
+eyJoaXN0b3J5IjpbLTE5MDI2NzU1ODcsMzk0Njc4ODUzLDE4Nz
+Y2OTE3MTEsLTE1NDU0NjIxMCwxNDM3NTU0NzUzLDE1MjAyOTA3
+MTIsMjAwNDYwMjA2MSwtODM5NjE3MjAzLDE1NTUxNDc3MV19
 -->
