@@ -31,6 +31,8 @@ In the original script I included information (Source: Aridif) about how Archang
 Lesson:  **Dimensions**
 0th and 10th dimensionality are both the omnipresence connecting All. They are the same, like 360° and 0° on a circle, though in this case the circle is a torus.
 
+**Clarification: 0th and 10th dimension are the unity point of every density level**
+For densities and dimensions to co-exist, 
 
 # Video Course Image Credits
 
@@ -67,7 +69,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mz
-c1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcy
-MDMsMTU1NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbMzk0Njc4ODUzLDE4NzY2OTE3MTEsLTE1ND
+U0NjIxMCwxNDM3NTU0NzUzLDE1MjAyOTA3MTIsMjAwNDYwMjA2
+MSwtODM5NjE3MjAzLDE1NTUxNDc3MV19
 -->
