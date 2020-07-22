@@ -38,6 +38,10 @@ For densities and dimensions to co-exist,
 In the course, density 7 markes the first non-physical collective conscious experienece. While the 7th density if the first true collective experience, o
 
 
+# Critical Thinking Questions
+Answer these questions to test your comprehension and find where you would like to do more research.
+
+
 # Video Course Image Credits
 
 [ Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) by Maria Celeste G VelAja TalaLei
@@ -73,8 +77,8 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDcyMTkyOSwtMTkwMjY3NTU4NywzOT
-Q2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3
-NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcyMDMsMT
-U1NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbLTkyNzM3MDQwNCwxNTQwNzIxOTI5LC0xOT
+AyNjc1NTg3LDM5NDY3ODg1MywxODc2NjkxNzExLC0xNTQ1NDYy
+MTAsMTQzNzU1NDc1MywxNTIwMjkwNzEyLDIwMDQ2MDIwNjEsLT
+gzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
 -->
