@@ -40,8 +40,9 @@ In the course, density 7 markes the first non-physical collective conscious expe
 
 # Critical Thinking Questions
 Answer these questions to test your comprehension and find where you would like to do more research.
-1. List all the densities, and figure out what dimensions are crucial to the operation of each density and why.
-2. Do you think there is another 3-axis system above the 9th dimension (10, 
+1. List all the densities, and figure out what dimensions are most crucial to the operation of each density and why.
+2. Do you think there is another 3-axis system above the 9th dimension (10, 11, and 12)? Why or why not?
+3. What do you think is the relation between first density and 13th density?
 
 
 # Video Course Image Credits
@@ -79,8 +80,8 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzkyMTExOSwxNTQwNzIxOTI5LC0xOT
-AyNjc1NTg3LDM5NDY3ODg1MywxODc2NjkxNzExLC0xNTQ1NDYy
-MTAsMTQzNzU1NDc1MywxNTIwMjkwNzEyLDIwMDQ2MDIwNjEsLT
-gzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
+eyJoaXN0b3J5IjpbLTE5MjEzNTUwMjEsMTU0MDcyMTkyOSwtMT
+kwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2
+MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC
+04Mzk2MTcyMDMsMTU1NTE0NzcxXX0=
 -->
