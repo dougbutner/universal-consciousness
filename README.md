@@ -32,7 +32,7 @@ Lesson:  **Dimensions**
 0th and 10th dimensionality are both the omnipresence connecting All. They are the same, like 360° and 0° on a circle, though in this case the circle is a torus.
 
 **Clarification: 0th and 10th dimension are the unity point of every density level**
-For densities and dimensions to co-exist, 
+For densities and dimensions to co-exist, consciousness must be present at each point the densities can express. The conneciton o
 
 **Clarification: 4th, 5th, and 6 densities can have collective consciousness experiences**
 In the course, density 7 marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, o
@@ -80,8 +80,8 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjk3MTM2NSwxNTQwNzIxOTI5LC0xOT
-AyNjc1NTg3LDM5NDY3ODg1MywxODc2NjkxNzExLC0xNTQ1NDYy
-MTAsMTQzNzU1NDc1MywxNTIwMjkwNzEyLDIwMDQ2MDIwNjEsLT
-gzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
+eyJoaXN0b3J5IjpbLTkyNDYwNjI1OCwyMDcyOTcxMzY1LDE1ND
+A3MjE5MjksLTE5MDI2NzU1ODcsMzk0Njc4ODUzLDE4NzY2OTE3
+MTEsLTE1NDU0NjIxMCwxNDM3NTU0NzUzLDE1MjAyOTA3MTIsMj
+AwNDYwMjA2MSwtODM5NjE3MjAzLDE1NTUxNDc3MV19
 -->
