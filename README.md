@@ -35,7 +35,7 @@ Lesson:  **Dimensions**
 For densities and dimensions to co-exist, 
 
 **Clarification: 4th, 5th, and 6 densities can have collective consciousness experiences**
-In the course, density 7 markes the first non-physical collective conscious experienece. While the 7th density if the first true collective experience, o
+In the course, density 7 marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, o
 
 
 # Critical Thinking Questions
@@ -80,8 +80,8 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjEzNTUwMjEsMTU0MDcyMTkyOSwtMT
-kwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2
-MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC
-04Mzk2MTcyMDMsMTU1NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbMjA3Mjk3MTM2NSwxNTQwNzIxOTI5LC0xOT
+AyNjc1NTg3LDM5NDY3ODg1MywxODc2NjkxNzExLC0xNTQ1NDYy
+MTAsMTQzNzU1NDc1MywxNTIwMjkwNzEyLDIwMDQ2MDIwNjEsLT
+gzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
 -->
