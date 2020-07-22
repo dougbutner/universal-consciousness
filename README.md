@@ -35,7 +35,7 @@ Lesson:  **Dimensions**
 For densities and dimensions to co-exist, consciousness must be present at each point the densities can express. The ever-presence of the 0th dimension, which is the 10th dimensional "All-as-One" create this link between all consciousness and all "physical" experienceable reality.
 
 **Clarification: 4th, 5th, and 6 densities can have collective consciousness experiences**
-In the course, density 7 marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, o
+In the course, 7th density marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, removed from physicality, the lower densities (particularly 4, 5, 6, though truly all the way down) have collective experiences 
 
 
 # Critical Thinking Questions
@@ -80,8 +80,8 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA3Nzg0MzcsMjA3Mjk3MTM2NSwxNT
-QwNzIxOTI5LC0xOTAyNjc1NTg3LDM5NDY3ODg1MywxODc2Njkx
-NzExLC0xNTQ1NDYyMTAsMTQzNzU1NDc1MywxNTIwMjkwNzEyLD
-IwMDQ2MDIwNjEsLTgzOTYxNzIwMywxNTU1MTQ3NzFdfQ==
+eyJoaXN0b3J5IjpbMjUxMzMyMzMwLDIwNzI5NzEzNjUsMTU0MD
+cyMTkyOSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcx
+MSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMD
+A0NjAyMDYxLC04Mzk2MTcyMDMsMTU1NTE0NzcxXX0=
 -->
