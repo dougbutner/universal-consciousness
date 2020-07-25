@@ -38,7 +38,7 @@ For densities and dimensions to co-exist, consciousness must be present at each 
 In the course, 7th density marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, removed from physicality, the lower densities (particularly 4, 5, 6, though truly all the way down) have collective experiences which become more integrated as the densities are progressed.
 
 **Clarification: Distortion of the containing (higher) density's tori's information** 
-(From A.A Exclusive density lesson)
+(From A.A Exclusive density lesson) Every poe
 
 
 # Critical Thinking Questions
@@ -83,9 +83,9 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTk0ODk4MywtMTQ2Nzg1NjUxNyw3MD
-k2NDkyOCwyMDcyOTcxMzY1LDE1NDA3MjE5MjksLTE5MDI2NzU1
-ODcsMzk0Njc4ODUzLDE4NzY2OTE3MTEsLTE1NDU0NjIxMCwxND
-M3NTU0NzUzLDE1MjAyOTA3MTIsMjAwNDYwMjA2MSwtODM5NjE3
-MjAzLDE1NTUxNDc3MV19
+eyJoaXN0b3J5IjpbLTE2OTA5MzE4NjQsLTUxOTk0ODk4MywtMT
+Q2Nzg1NjUxNyw3MDk2NDkyOCwyMDcyOTcxMzY1LDE1NDA3MjE5
+MjksLTE5MDI2NzU1ODcsMzk0Njc4ODUzLDE4NzY2OTE3MTEsLT
+E1NDU0NjIxMCwxNDM3NTU0NzUzLDE1MjAyOTA3MTIsMjAwNDYw
+MjA2MSwtODM5NjE3MjAzLDE1NTUxNDc3MV19
 -->
