@@ -53,9 +53,12 @@ Answer these questions to test your comprehension and find where you would like 
 3. What do you think is the relation between first density and 13th density?
 
 
-# Video Course Image Credits
+# Video Course Image / Video Credits
 
 [ Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) by Maria Celeste G VelAja TalaLei
+
+
+[Metatron Cube Visualizations](https://www.youtube.com/watch?v=ONZX9GeeygY)
 
 
 
@@ -88,10 +91,10 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjEwNzUwOSwxNDE5NjAwNTY1LC0xMz
-gwMTgzNzYxLDEwNzI0NTI0NTQsLTUxOTk0ODk4MywtMTQ2Nzg1
-NjUxNyw3MDk2NDkyOCwyMDcyOTcxMzY1LDE1NDA3MjE5MjksLT
-E5MDI2NzU1ODcsMzk0Njc4ODUzLDE4NzY2OTE3MTEsLTE1NDU0
-NjIxMCwxNDM3NTU0NzUzLDE1MjAyOTA3MTIsMjAwNDYwMjA2MS
-wtODM5NjE3MjAzLDE1NTUxNDc3MV19
+eyJoaXN0b3J5IjpbMTcyOTc3NTUwMCwxODkyMTA3NTA5LDE0MT
+k2MDA1NjUsLTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4
+OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMT
+U0MDcyMTkyOSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5
+MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMi
+wyMDA0NjAyMDYxLC04Mzk2MTcyMDMsMTU1NTE0NzcxXX0=
 -->
