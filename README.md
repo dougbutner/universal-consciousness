@@ -41,6 +41,9 @@ In the course, 7th density marks the first non-physical collective conscious exp
 (From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself, which 
 
 
+**Ereta: ** 
+
+
 # Critical Thinking Questions
 Answer these questions to test your comprehension and find where you would like to do more research.
 1. List all the densities, and figure out what dimensions are most crucial to the operation of each density and why.
@@ -83,7 +86,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTY5ODY3MywtNTE5OTQ4OTgzLC0xND
+eyJoaXN0b3J5IjpbMTA3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xND
 Y3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTky
 OSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMT
 U0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAy
