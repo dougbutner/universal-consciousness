@@ -42,8 +42,8 @@ In the course, 7th density marks the first non-physical collective conscious exp
 
 
 **Erratum: Saying that we had courses by myself and compiled works on Aquarius Academy**
-We have a wonderful course by Heng Ni on Aquarius Academy as well. 
-We hope to have many more instructors!
+We have a wonderful [Taoist Yoga course]() by Heng Ni on Aquarius Academy as well. 
+We hope to welcome many more instructors in the future!
 
 
 # Critical Thinking Questions
@@ -88,10 +88,10 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM1MTc1MDUsLTEzODAxODM3NjEsMT
-A3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0
-OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4Ny
-wzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1
-NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcyMD
-MsMTU1NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbMTQxOTYwMDU2NSwtMTM4MDE4Mzc2MSwxMD
+cyNDUyNDU0LC01MTk5NDg5ODMsLTE0Njc4NTY1MTcsNzA5NjQ5
+MjgsMjA3Mjk3MTM2NSwxNTQwNzIxOTI5LC0xOTAyNjc1NTg3LD
+M5NDY3ODg1MywxODc2NjkxNzExLC0xNTQ1NDYyMTAsMTQzNzU1
+NDc1MywxNTIwMjkwNzEyLDIwMDQ2MDIwNjEsLTgzOTYxNzIwMy
+wxNTU1MTQ3NzFdfQ==
 -->
