@@ -41,8 +41,9 @@ In the course, 7th density marks the first non-physical collective conscious exp
 (From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself, which 
 
 
-**Erratum: Saying that we only had courses by myself and compiled works on Aquarius Academy**
-We have a wonderful course by Heng Ni 
+**Erratum: Saying that we had courses by myself and compiled works on Aquarius Academy**
+We have a wonderful course by Heng Ni on Aquarius Academy as well. 
+We hope to have many more instructors!
 
 
 # Critical Thinking Questions
@@ -87,10 +88,10 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNT
-E5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEz
-NjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMT
-g3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5
-MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcyMDMsMTU1NTE0NzcxXX
-0=
+eyJoaXN0b3J5IjpbLTE5MDM1MTc1MDUsLTEzODAxODM3NjEsMT
+A3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0
+OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4Ny
+wzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1
+NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcyMD
+MsMTU1NTE0NzcxXX0=
 -->
