@@ -61,7 +61,8 @@ Answer these questions to test your comprehension and find where you would like 
 [Metatron Cube Visualizations](https://www.youtube.com/watch?v=ONZX9GeeygY)
 
 
-
+# Content Credits
+Rob Gauthier and channeled entities TReb Bor yit-NE and Aridif provided 
 
 # About Aquarius Academy
 Aquarius Academy serves as a catalyst for collective consciousness connection. "Aquarius" is our current astrological age, and the "Academy" is the conscious connection happening throughout the Milky Way in this age.
@@ -91,10 +92,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTc3NTUwMCwxODkyMTA3NTA5LDE0MT
-k2MDA1NjUsLTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4
-OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMT
-U0MDcyMTkyOSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5
-MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMi
-wyMDA0NjAyMDYxLC04Mzk2MTcyMDMsMTU1NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbLTExMjA2MDE1MzEsMTcyOTc3NTUwMCwxOD
+kyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMTA3MjQ1
+MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4LD
+IwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4NywzOTQ2
+Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3NT
+MsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcyMDMsMTU1
+NTE0NzcxXX0=
 -->
