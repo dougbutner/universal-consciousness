@@ -64,7 +64,9 @@ Answer these questions to test your comprehension and find where you would like 
 # Content Credits
 Entities TReb Bor yit-NE and Aridif channeled by [Rob Gauthier](https://www.etwhisperer.com/) provided all of the information on Matricies, and all of the information on densities above the seventh, and some of lower density information also. (Specific source information in lessons)
 
-The 
+[The Ra Material](https://www.lawofone.info/) provided some of the information about densities 1-7. 
+
+
 
 
 
@@ -96,7 +98,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDMxODU2NCwxNzI5Nzc1NTAwLDE4OT
+eyJoaXN0b3J5IjpbMTg1NTY3Njk4MiwxNzI5Nzc1NTAwLDE4OT
 IxMDc1MDksMTQxOTYwMDU2NSwtMTM4MDE4Mzc2MSwxMDcyNDUy
 NDU0LC01MTk5NDg5ODMsLTE0Njc4NTY1MTcsNzA5NjQ5MjgsMj
 A3Mjk3MTM2NSwxNTQwNzIxOTI5LC0xOTAyNjc1NTg3LDM5NDY3
