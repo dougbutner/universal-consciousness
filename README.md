@@ -1,5 +1,5 @@
 # Universal Consciousness
-The 7-11-12 Model of Universal Consciousness: Dimensions,  Densities, and Matrices
+### The 7-11-12 Model of Universal Consciousness: Dimensions,  Densities, and Matrices
 
 # About This Repo
 This repo holds a summary of a model of universal structure and consciousness. All lessons are in Markdown format, with images and sources where applicable.
@@ -66,7 +66,9 @@ Entities TReb Bor yit-NE and Aridif channeled by [Rob Gauthier](https://www.etwh
 
 [The Ra Material](https://www.lawofone.info/) provided some of the information about densities 1-7. 
 
-Rob Bryanton's [explanations](https://www.youtube.com/watch?v=XjsgoXvnStY) of the 10 Dimensional model are the foundation
+Rob Bryanton's [explanations](https://www.youtube.com/watch?v=XjsgoXvnStY) of the 10 Dimensional model were the foundation for our interpretation of dimensions. 
+
+Script was written by Douglas Butner using these preceding references
 
 
 
@@ -98,11 +100,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMzcyMjQ3LDE3Mjk3NzU1MDAsMTg5Mj
-EwNzUwOSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLDEwNzI0NTI0
-NTQsLTUxOTk0ODk4MywtMTQ2Nzg1NjUxNyw3MDk2NDkyOCwyMD
-cyOTcxMzY1LDE1NDA3MjE5MjksLTE5MDI2NzU1ODcsMzk0Njc4
-ODUzLDE4NzY2OTE3MTEsLTE1NDU0NjIxMCwxNDM3NTU0NzUzLD
-E1MjAyOTA3MTIsMjAwNDYwMjA2MSwtODM5NjE3MjAzLDE1NTUx
-NDc3MV19
+eyJoaXN0b3J5IjpbLTE2OTQzNjE2MjcsMTcyOTc3NTUwMCwxOD
+kyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMTA3MjQ1
+MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4LD
+IwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4NywzOTQ2
+Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3NT
+MsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcyMDMsMTU1
+NTE0NzcxXX0=
 -->
