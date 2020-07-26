@@ -68,7 +68,9 @@ Entities TReb Bor yit-NE and Aridif channeled by [Rob Gauthier](https://www.etwh
 
 Rob Bryanton's [explanations](https://www.youtube.com/watch?v=XjsgoXvnStY) of the 10 Dimensional model were the foundation for our interpretation of dimensions. 
 
-Script was written by Douglas Butner using these preceding references
+Script by [Douglas Butner](https://douglas.life) 
+
+Video Course editing by [Karelia Blum](https://www.instagram.com/the_blum_universe/)
 
 
 
@@ -100,11 +102,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQzNjE2MjcsMTcyOTc3NTUwMCwxOD
-kyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMTA3MjQ1
-MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4LD
-IwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4NywzOTQ2
-Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3NT
-MsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2MTcyMDMsMTU1
-NTE0NzcxXX0=
+eyJoaXN0b3J5IjpbMzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMTg5Mj
+EwNzUwOSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLDEwNzI0NTI0
+NTQsLTUxOTk0ODk4MywtMTQ2Nzg1NjUxNyw3MDk2NDkyOCwyMD
+cyOTcxMzY1LDE1NDA3MjE5MjksLTE5MDI2NzU1ODcsMzk0Njc4
+ODUzLDE4NzY2OTE3MTEsLTE1NDU0NjIxMCwxNDM3NTU0NzUzLD
+E1MjAyOTA3MTIsMjAwNDYwMjA2MSwtODM5NjE3MjAzLDE1NTUx
+NDc3MV19
 -->
