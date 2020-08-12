@@ -38,7 +38,7 @@ For densities and dimensions to co-exist, consciousness must be present at each 
 In the course, 7th density marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, removed from physicality, the lower densities (particularly 4, 5, 6, though truly all the way down) have collective experiences which become more integrated as the densities are progressed.
 
 **Clarification: Distortion of the containing (higher) density's tori's information** 
-(From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself, which 
+(From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself, which give it 
 
 
 **Erratum: Saying that we had courses by myself and compiled works on Aquarius Academy**
@@ -102,11 +102,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjQ4Mjk4NCwzOTkzODUyMjIsMTcyOT
-c3NTUwMCwxODkyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3
-NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LD
-cwOTY0OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3
-NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLD
-E0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAyMDYxLC04Mzk2
-MTcyMDNdfQ==
+eyJoaXN0b3J5IjpbOTE4MTE1NjYsMTQ1NjQ4Mjk4NCwzOTkzOD
+UyMjIsMTcyOTc3NTUwMCwxODkyMTA3NTA5LDE0MTk2MDA1NjUs
+LTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xND
+Y3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTky
+OSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMT
+U0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0NjAy
+MDYxXX0=
 -->
