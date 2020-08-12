@@ -34,9 +34,6 @@ Lesson:  **Dimensions**
 **Clarification: 0th and 10th dimension are the unity point of every density level**
 For densities and dimensions to co-exist, consciousness must be present at each point the densities can express. The ever-presence of the 0th dimension, which is the 10th dimensional "All-as-One" create this link between all consciousness and all "physical" experienceable reality.
 
-**Omission:  0th Density**
-This was omitted purposefully without a source, but is important to consider. The 13th density of consciousness is also the 0th density, or the starting point which the creator grows into atoms. This is also the same as the 0th and 10th dimensions. This link between consciousness (densities) and physical reality (dimensions) is the foundation of reality in our universe.
-
 **Clarification: 4th, 5th, and 6 densities can have collective consciousness experiences**
 In the course, 7th density marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, removed from physicality, the lower densities (particularly 4, 5, 6, though truly all the way down) have collective experiences which become more integrated as the densities are progressed.
 
@@ -47,6 +44,10 @@ In the course, 7th density marks the first non-physical collective conscious exp
 **Erratum: Saying that we had courses by myself and compiled works on Aquarius Academy**
 We have a wonderful [Taoist Yoga course]() by Heng Ni on Aquarius Academy as well. 
 We hope to welcome many more instructors in the future!  
+
+
+**Omission:  0th Density**
+This was omitted purposefully without a source, but is important to consider. The 13th density of consciousness is also the 0th density, or the starting point which the creator grows into atoms. This is also the same as the 0th and 10th dimensions. This link between consciousness (densities) and physical reality (dimensions) is the foundation of reality in our universe.
 
 
 # Critical Thinking Questions
@@ -105,11 +106,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgwMDI2OTYsMTQ1NjQ4Mjk4NCwzOT
-kzODUyMjIsMTcyOTc3NTUwMCwxODkyMTA3NTA5LDE0MTk2MDA1
-NjUsLTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC
-0xNDY3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMTU0MDcy
-MTkyOSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcxMS
-wtMTU0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0
-NjAyMDYxXX0=
+eyJoaXN0b3J5IjpbMjE0MTM1MjEzOCwtMTg5ODAwMjY5NiwxND
+U2NDgyOTg0LDM5OTM4NTIyMiwxNzI5Nzc1NTAwLDE4OTIxMDc1
+MDksMTQxOTYwMDU2NSwtMTM4MDE4Mzc2MSwxMDcyNDUyNDU0LC
+01MTk5NDg5ODMsLTE0Njc4NTY1MTcsNzA5NjQ5MjgsMjA3Mjk3
+MTM2NSwxNTQwNzIxOTI5LC0xOTAyNjc1NTg3LDM5NDY3ODg1My
+wxODc2NjkxNzExLC0xNTQ1NDYyMTAsMTQzNzU1NDc1MywxNTIw
+MjkwNzEyXX0=
 -->
