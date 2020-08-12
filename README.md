@@ -34,7 +34,7 @@ Lesson:  **Dimensions**
 **Clarification: 0th and 10th dimension are the unity point of every density level**
 For densities and dimensions to co-exist, consciousness must be present at each point the densities can express. The ever-presence of the 0th dimension, which is the 10th dimensional "All-as-One" create this link between all consciousness and all "physical" experienceable reality.
 
-**Erratum:  0th Density Omitted**
+**Omission:  0th Density**
 This was omitted purposefully without a source, but is important to consider. The 13th density of consciousness is also the 0th density, or the starting point which the creator grows into atoms. This is also the same as the 0th and 10th dimensions. This link between consciousness (densities) and physical reality (dimensions) is the foundation of reality in our universe.
 
 **Clarification: 4th, 5th, and 6 densities can have collective consciousness experiences**
@@ -105,7 +105,7 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjcxNDc3NzksMTQ1NjQ4Mjk4NCwzOT
+eyJoaXN0b3J5IjpbLTE4OTgwMDI2OTYsMTQ1NjQ4Mjk4NCwzOT
 kzODUyMjIsMTcyOTc3NTUwMCwxODkyMTA3NTA5LDE0MTk2MDA1
 NjUsLTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC
 0xNDY3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMTU0MDcy
