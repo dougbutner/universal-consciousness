@@ -38,7 +38,7 @@ For densities and dimensions to co-exist, consciousness must be present at each 
 In the course, 7th density marks the first non-physical collective conscious experience. While the 7th density if the first true collective experience, removed from physicality, the lower densities (particularly 4, 5, 6, though truly all the way down) have collective experiences which become more integrated as the densities are progressed.
 
 **Clarification: Distortion of the containing (higher) density's tori's information** 
-(From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself. The level of resonation can be thought of as a lack of distortion of a signal. Though information may become distorted in chaotic sections of the universe, every conscious actor is able to reduce thsi distortion by returning to 
+(From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself. The level of resonation can be thought of as a lack of distortion of a signal. Though information may become distorted in chaotic sections of the universe, every conscious being is able to reduce this distortion by returning to their core (tuning the antenna). Conversely, it is this distortion that gives the conscious being it's unique most probable path to ascension. 
 
 
 **Erratum: Saying that we had courses by myself and compiled works on Aquarius Academy**
@@ -102,11 +102,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0ODg4NDgsMTQ1NjQ4Mjk4NCwzOT
-kzODUyMjIsMTcyOTc3NTUwMCwxODkyMTA3NTA5LDE0MTk2MDA1
-NjUsLTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC
-0xNDY3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMTU0MDcy
-MTkyOSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcxMS
-wtMTU0NTQ2MjEwLDE0Mzc1NTQ3NTMsMTUyMDI5MDcxMiwyMDA0
-NjAyMDYxXX0=
+eyJoaXN0b3J5IjpbLTM5Mzc4NjUzOSwxNDU2NDgyOTg0LDM5OT
+M4NTIyMiwxNzI5Nzc1NTAwLDE4OTIxMDc1MDksMTQxOTYwMDU2
+NSwtMTM4MDE4Mzc2MSwxMDcyNDUyNDU0LC01MTk5NDg5ODMsLT
+E0Njc4NTY1MTcsNzA5NjQ5MjgsMjA3Mjk3MTM2NSwxNTQwNzIx
+OTI5LC0xOTAyNjc1NTg3LDM5NDY3ODg1MywxODc2NjkxNzExLC
+0xNTQ1NDYyMTAsMTQzNzU1NDc1MywxNTIwMjkwNzEyLDIwMDQ2
+MDIwNjFdfQ==
 -->
