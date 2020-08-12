@@ -52,9 +52,9 @@ This was omitted purposefully without a source, but is important to consider. Th
 
 # Critical Thinking Questions
 Answer these questions to test your comprehension and find where you would like to do more research.
-1. List all the densities, and figure out what dimensions are most crucial to the operation of each density and why.
-2. Do you think there is another 3-axis system above the 9th dimension (10, 11, and 12)? Why or why not?
-3. What do you think is the relation between first density and 13th density?
+1. List all the densities, and figure out **what dimensions are most crucial** to the operation of each density and why.
+2. Do you think there is **another 3-axis system** above the 9th dimension (10, 11, and 12)? Why or why not?
+3. What do you think is the **relation between first density and 13th density**?
 
 
 # Video Course Image / Video Credits
@@ -80,7 +80,7 @@ Video Course editing by [Karelia Blum](https://www.instagram.com/the_blum_univer
 
 # About Aquarius Academy
 Aquarius Academy serves as a catalyst for collective consciousness connection. "Aquarius" is our current astrological age, and the "Academy" is the conscious connection happening throughout the Milky Way in this age.
-## Here are some of our other courses
+## Here are some of our other free courses
 
 ![Screenshot 20200706 14.12.28.png](https://files.peakd.com/file/peakd-hive/aquarius.academy/wWAHbnus-Screenshot202020-07-062014.12.28.png)
 
@@ -106,11 +106,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTM1MjEzOCwtMTg5ODAwMjY5NiwxND
-U2NDgyOTg0LDM5OTM4NTIyMiwxNzI5Nzc1NTAwLDE4OTIxMDc1
-MDksMTQxOTYwMDU2NSwtMTM4MDE4Mzc2MSwxMDcyNDUyNDU0LC
-01MTk5NDg5ODMsLTE0Njc4NTY1MTcsNzA5NjQ5MjgsMjA3Mjk3
-MTM2NSwxNTQwNzIxOTI5LC0xOTAyNjc1NTg3LDM5NDY3ODg1My
-wxODc2NjkxNzExLC0xNTQ1NDYyMTAsMTQzNzU1NDc1MywxNTIw
-MjkwNzEyXX0=
+eyJoaXN0b3J5IjpbLTYyNDQ4MTc2NCwyMTQxMzUyMTM4LC0xOD
+k4MDAyNjk2LDE0NTY0ODI5ODQsMzk5Mzg1MjIyLDE3Mjk3NzU1
+MDAsMTg5MjEwNzUwOSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLD
+EwNzI0NTI0NTQsLTUxOTk0ODk4MywtMTQ2Nzg1NjUxNyw3MDk2
+NDkyOCwyMDcyOTcxMzY1LDE1NDA3MjE5MjksLTE5MDI2NzU1OD
+csMzk0Njc4ODUzLDE4NzY2OTE3MTEsLTE1NDU0NjIxMCwxNDM3
+NTU0NzUzXX0=
 -->
