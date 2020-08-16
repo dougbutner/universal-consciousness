@@ -41,7 +41,7 @@ In the course, 7th density marks the first non-physical collective conscious exp
 (From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself. The level of resonation can be thought of as a lack of distortion of a signal. Though information may become distorted in chaotic sections of the universe, every conscious being is able to reduce this distortion by returning to their core (tuning the antenna). Conversely, it is this distortion that gives the conscious being it's unique most probable path to ascension. 
 
 **Clarification: Nature of the Seventh Dimension**
-In the course, we discuss the seventh dimension as a line of other universes. While conceptual, it's still important to realize that this line is different versions of OUR universe. This is like the "small" multiverse. When we expand into the eigth 
+In the course, we discuss the seventh dimension as a line of other universes. While conceptual, it's still important to realize that this line is different versions of OUR universe. This is like the "small" multiverse, and may have different "universal constants" and such. When we expand into the eighth dimension, that's when we really get the realities much different, and in the ninth, all possibilities of reality formation.
 
 **Erratum: Saying that we had courses by myself and compiled works on Aquarius Academy**
 We have a wonderful [Taoist Yoga course]() by Heng Ni on Aquarius Academy as well. 
@@ -108,11 +108,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMjA4OTgyLDIxNDEzNTIxMzgsLTE4OT
-gwMDI2OTYsMTQ1NjQ4Mjk4NCwzOTkzODUyMjIsMTcyOTc3NTUw
-MCwxODkyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMT
-A3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0
-OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4Ny
-wzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1
-NTQ3NTNdfQ==
+eyJoaXN0b3J5IjpbNTcyMTQ0LDIxNDEzNTIxMzgsLTE4OTgwMD
+I2OTYsMTQ1NjQ4Mjk4NCwzOTkzODUyMjIsMTcyOTc3NTUwMCwx
+ODkyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMTA3Mj
+Q1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4
+LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4NywzOT
+Q2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3
+NTNdfQ==
 -->
