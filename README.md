@@ -41,7 +41,7 @@ In the course, 7th density marks the first non-physical collective conscious exp
 (From A.A Exclusive density lesson) Every piece of the galaxy remains in a level of resonance with the galaxy itself. The level of resonation can be thought of as a lack of distortion of a signal. Though information may become distorted in chaotic sections of the universe, every conscious being is able to reduce this distortion by returning to their core (tuning the antenna). Conversely, it is this distortion that gives the conscious being it's unique most probable path to ascension. 
 
 **Clarification: Nature of the Seventh Dimension**
-In the course, we discuss the seventh dimension as a line of other universes. 
+In the course, we discuss the seventh dimension as a line of other universes. While conceptual, it's still important to realize that this line is different versions of OUR universe. This is like the "small" multiverse. When we expand into the eigth 
 
 **Erratum: Saying that we had courses by myself and compiled works on Aquarius Academy**
 We have a wonderful [Taoist Yoga course]() by Heng Ni on Aquarius Academy as well. 
@@ -108,11 +108,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjA1MTQ3NSwyMTQxMzUyMTM4LC0xOD
-k4MDAyNjk2LDE0NTY0ODI5ODQsMzk5Mzg1MjIyLDE3Mjk3NzU1
-MDAsMTg5MjEwNzUwOSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLD
-EwNzI0NTI0NTQsLTUxOTk0ODk4MywtMTQ2Nzg1NjUxNyw3MDk2
-NDkyOCwyMDcyOTcxMzY1LDE1NDA3MjE5MjksLTE5MDI2NzU1OD
-csMzk0Njc4ODUzLDE4NzY2OTE3MTEsLTE1NDU0NjIxMCwxNDM3
-NTU0NzUzXX0=
+eyJoaXN0b3J5IjpbNjkyMjA4OTgyLDIxNDEzNTIxMzgsLTE4OT
+gwMDI2OTYsMTQ1NjQ4Mjk4NCwzOTkzODUyMjIsMTcyOTc3NTUw
+MCwxODkyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMT
+A3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0
+OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4Ny
+wzOTQ2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1
+NTQ3NTNdfQ==
 -->
