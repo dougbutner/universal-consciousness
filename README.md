@@ -4,6 +4,8 @@
 # About This Repo
 This repo holds a summary of a model of universal structure and consciousness. All lessons are in Markdown format, with images and sources where applicable.
 
+If you prefer to watch, you can find this course at []()
+
 # Instructions
 Open the sole [folder](https://github.com/dougbutner/universal-consciousness/tree/master/The%207-11-12%20Model%20of%20Universal%20Consciousness) in this repo to read all of the lessons in .md format, right here on Github. Or, click a link below to visit any lesson directly.
 
@@ -108,11 +110,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMTQ0LDIxNDEzNTIxMzgsLTE4OTgwMD
-I2OTYsMTQ1NjQ4Mjk4NCwzOTkzODUyMjIsMTcyOTc3NTUwMCwx
-ODkyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMTA3Mj
-Q1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0OTI4
-LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4NywzOT
-Q2Nzg4NTMsMTg3NjY5MTcxMSwtMTU0NTQ2MjEwLDE0Mzc1NTQ3
-NTNdfQ==
+eyJoaXN0b3J5IjpbMTQ3Njk2MjAwNSw1NzIxNDQsMjE0MTM1Mj
+EzOCwtMTg5ODAwMjY5NiwxNDU2NDgyOTg0LDM5OTM4NTIyMiwx
+NzI5Nzc1NTAwLDE4OTIxMDc1MDksMTQxOTYwMDU2NSwtMTM4MD
+E4Mzc2MSwxMDcyNDUyNDU0LC01MTk5NDg5ODMsLTE0Njc4NTY1
+MTcsNzA5NjQ5MjgsMjA3Mjk3MTM2NSwxNTQwNzIxOTI5LC0xOT
+AyNjc1NTg3LDM5NDY3ODg1MywxODc2NjkxNzExLC0xNTQ1NDYy
+MTBdfQ==
 -->
