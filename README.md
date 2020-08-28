@@ -4,11 +4,11 @@
 # About This Repo
 This repo holds a summary of a model of universal structure and consciousness. All lessons are in Markdown format, with images and sources where applicable.
 
-### This content was created for a video course called Universal Consciousness: Densities, Dimensions, Matrices + Grids, now available on [**aquarius.academy**](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/), [**udemy**](https://www.udemy.com/universal-consciousness), and [**youtube**](https://www.youtube.com/playlist?list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1).
+This content was created for a video course called **Universal Consciousness: Densities, Dimensions, Matrices + Grids**, now available on [**aquarius.academy**](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/), [**udemy**](https://www.udemy.com/universal-consciousness), and [**youtube**](https://www.youtube.com/playlist?list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1).
 
 The version on [**aquarius.academy**](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) also includes the corresponding full text from this repository with each video lesson.
 
-# Instructions
+# Repo Instructions
 Open the sole [folder](https://github.com/dougbutner/universal-consciousness/tree/master/The%207-11-12%20Model%20of%20Universal%20Consciousness) in this repo to read all of the lessons in .md format, right here on Github. Or, click a link below to visit any lesson directly.
 
 # Lessons
@@ -112,11 +112,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzQyODg3LDE0NzY5NjIwMDUsNTcyMT
-Q0LDIxNDEzNTIxMzgsLTE4OTgwMDI2OTYsMTQ1NjQ4Mjk4NCwz
-OTkzODUyMjIsMTcyOTc3NTUwMCwxODkyMTA3NTA5LDE0MTk2MD
-A1NjUsLTEzODAxODM3NjEsMTA3MjQ1MjQ1NCwtNTE5OTQ4OTgz
-LC0xNDY3ODU2NTE3LDcwOTY0OTI4LDIwNzI5NzEzNjUsMTU0MD
-cyMTkyOSwtMTkwMjY3NTU4NywzOTQ2Nzg4NTMsMTg3NjY5MTcx
-MV19
+eyJoaXN0b3J5IjpbMTgzMjY4MTQ3MCwxNDc2OTYyMDA1LDU3Mj
+E0NCwyMTQxMzUyMTM4LC0xODk4MDAyNjk2LDE0NTY0ODI5ODQs
+Mzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMTg5MjEwNzUwOSwxNDE5Nj
+AwNTY1LC0xMzgwMTgzNzYxLDEwNzI0NTI0NTQsLTUxOTk0ODk4
+MywtMTQ2Nzg1NjUxNyw3MDk2NDkyOCwyMDcyOTcxMzY1LDE1ND
+A3MjE5MjksLTE5MDI2NzU1ODcsMzk0Njc4ODUzLDE4NzY2OTE3
+MTFdfQ==
 -->
