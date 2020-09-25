@@ -78,9 +78,14 @@ Entities TReb Bor yit-NE and Aridif channeled by [Rob Gauthier](https://www.etwh
 
 Rob Bryanton's [explanations](https://www.youtube.com/watch?v=XjsgoXvnStY) of the 10 Dimensional model were the foundation for our interpretation of dimensions. 
 
+[Bashar]() was also referenced both directly and in some idea
+
+  
+Music: [https://www.purple-planet.com](https://www.purple-planet.com/)
+
 Script by [Douglas Butner](https://douglas.life) 
 
-Video Course editing by [Karelia Blum](https://www.instagram.com/the_blum_universe/)
+Video editing by [Karelia Blum](https://www.instagram.com/the_blum_universe/)
 
 
 
@@ -112,11 +117,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjY4MTQ3MCwxNDc2OTYyMDA1LDU3Mj
-E0NCwyMTQxMzUyMTM4LC0xODk4MDAyNjk2LDE0NTY0ODI5ODQs
-Mzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMTg5MjEwNzUwOSwxNDE5Nj
-AwNTY1LC0xMzgwMTgzNzYxLDEwNzI0NTI0NTQsLTUxOTk0ODk4
-MywtMTQ2Nzg1NjUxNyw3MDk2NDkyOCwyMDcyOTcxMzY1LDE1ND
-A3MjE5MjksLTE5MDI2NzU1ODcsMzk0Njc4ODUzLDE4NzY2OTE3
-MTFdfQ==
+eyJoaXN0b3J5IjpbNzk4MTkwNDI1LDE4MzI2ODE0NzAsMTQ3Nj
+k2MjAwNSw1NzIxNDQsMjE0MTM1MjEzOCwtMTg5ODAwMjY5Niwx
+NDU2NDgyOTg0LDM5OTM4NTIyMiwxNzI5Nzc1NTAwLDE4OTIxMD
+c1MDksMTQxOTYwMDU2NSwtMTM4MDE4Mzc2MSwxMDcyNDUyNDU0
+LC01MTk5NDg5ODMsLTE0Njc4NTY1MTcsNzA5NjQ5MjgsMjA3Mj
+k3MTM2NSwxNTQwNzIxOTI5LC0xOTAyNjc1NTg3LDM5NDY3ODg1
+M119
 -->
