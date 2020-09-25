@@ -78,7 +78,7 @@ Entities TReb Bor yit-NE and Aridif channeled by [Rob Gauthier](https://www.etwh
 
 Rob Bryanton's [explanations](https://www.youtube.com/watch?v=XjsgoXvnStY) of the 10 Dimensional model were the foundation for our interpretation of dimensions. 
 
-[Bashar]() was also referenced both directly and in some idea
+[Bashar](https://www.youtube.com/channel/UCiDZy_rfSodwFaVL_imGWgQ) was also referenced both directly and in some idea
 
   
 Music: [https://www.purple-planet.com](https://www.purple-planet.com/)
@@ -91,7 +91,7 @@ Video editing by [Karelia Blum](https://www.instagram.com/the_blum_universe/)
 
 # About Aquarius Academy
 Aquarius Academy serves as a catalyst for collective consciousness connection. "Aquarius" is our current astrological age, and the "Academy" is the conscious connection happening throughout the Milky Way in this age.
-## Here are some of our other free courses
+## Here are some of our other free + Premium courses
 
 ![Screenshot 20200706 14.12.28.png](https://files.peakd.com/file/peakd-hive/aquarius.academy/wWAHbnus-Screenshot202020-07-062014.12.28.png)
 
@@ -107,7 +107,7 @@ Aquarius Academy serves as a catalyst for collective consciousness connection. "
 
 5. Smiling to Success
 
-## You can enroll in these courses for free here: [aquarius.academy/all-courses](https://aquarius.academy/all-courses)
+## [aquarius.academy/all-courses](https://aquarius.academy/all-courses)
 
 ___
 
@@ -117,11 +117,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MTkwNDI1LDE4MzI2ODE0NzAsMTQ3Nj
-k2MjAwNSw1NzIxNDQsMjE0MTM1MjEzOCwtMTg5ODAwMjY5Niwx
-NDU2NDgyOTg0LDM5OTM4NTIyMiwxNzI5Nzc1NTAwLDE4OTIxMD
-c1MDksMTQxOTYwMDU2NSwtMTM4MDE4Mzc2MSwxMDcyNDUyNDU0
-LC01MTk5NDg5ODMsLTE0Njc4NTY1MTcsNzA5NjQ5MjgsMjA3Mj
-k3MTM2NSwxNTQwNzIxOTI5LC0xOTAyNjc1NTg3LDM5NDY3ODg1
-M119
+eyJoaXN0b3J5IjpbMjI3Nzc3NzkyLDc5ODE5MDQyNSwxODMyNj
+gxNDcwLDE0NzY5NjIwMDUsNTcyMTQ0LDIxNDEzNTIxMzgsLTE4
+OTgwMDI2OTYsMTQ1NjQ4Mjk4NCwzOTkzODUyMjIsMTcyOTc3NT
+UwMCwxODkyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEs
+MTA3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOT
+Y0OTI4LDIwNzI5NzEzNjUsMTU0MDcyMTkyOSwtMTkwMjY3NTU4
+N119
 -->
