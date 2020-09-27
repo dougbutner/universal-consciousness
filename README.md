@@ -30,7 +30,6 @@ Open the sole [folder](https://github.com/dougbutner/universal-consciousness/tre
 Lesson: **Matrices**
 In the original script I included information (Source: Aridif) about how Archangels were from the 12th density. I decided to leave it out of the video version, but left it on Github. 
 
-
 **Clarification: 0th and 10th dimension are the same**
 Lesson:  **Dimensions**
 0th and 10th dimensionality are both the omnipresence connecting All. They are the same, like 360° and 0° on a circle, though in this case the circle is a torus.
@@ -117,11 +116,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg0NjkzMTEsLTE1NTQxNTY2MDUsNz
-k4MTkwNDI1LDE4MzI2ODE0NzAsMTQ3Njk2MjAwNSw1NzIxNDQs
-MjE0MTM1MjEzOCwtMTg5ODAwMjY5NiwxNDU2NDgyOTg0LDM5OT
-M4NTIyMiwxNzI5Nzc1NTAwLDE4OTIxMDc1MDksMTQxOTYwMDU2
-NSwtMTM4MDE4Mzc2MSwxMDcyNDUyNDU0LC01MTk5NDg5ODMsLT
-E0Njc4NTY1MTcsNzA5NjQ5MjgsMjA3Mjk3MTM2NSwxNTQwNzIx
-OTI5XX0=
+eyJoaXN0b3J5IjpbMTIzNDQ5OTI4MywtMTczODQ2OTMxMSwtMT
+U1NDE1NjYwNSw3OTgxOTA0MjUsMTgzMjY4MTQ3MCwxNDc2OTYy
+MDA1LDU3MjE0NCwyMTQxMzUyMTM4LC0xODk4MDAyNjk2LDE0NT
+Y0ODI5ODQsMzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMTg5MjEwNzUw
+OSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLDEwNzI0NTI0NTQsLT
+UxOTk0ODk4MywtMTQ2Nzg1NjUxNyw3MDk2NDkyOCwyMDcyOTcx
+MzY1XX0=
 -->
