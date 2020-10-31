@@ -92,7 +92,6 @@ Video editing by [Karelia Blum](https://www.instagram.com/the_blum_universe/)
 Aquarius Academy serves as a catalyst for collective consciousness connection. "Aquarius" is our current astrological age, and the "Academy" is the conscious connection happening throughout the Milky Way in this age.
 ## Here are some of our other free + Premium courses
 
-![Screenshot 20200706 14.12.28.png](https://files.peakd.com/file/peakd-hive/aquarius.academy/wWAHbnus-Screenshot202020-07-062014.12.28.png)
 
 
 
@@ -116,11 +115,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDQ5OTI4MywtMTczODQ2OTMxMSwtMT
-U1NDE1NjYwNSw3OTgxOTA0MjUsMTgzMjY4MTQ3MCwxNDc2OTYy
-MDA1LDU3MjE0NCwyMTQxMzUyMTM4LC0xODk4MDAyNjk2LDE0NT
-Y0ODI5ODQsMzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMTg5MjEwNzUw
-OSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLDEwNzI0NTI0NTQsLT
-UxOTk0ODk4MywtMTQ2Nzg1NjUxNyw3MDk2NDkyOCwyMDcyOTcx
-MzY1XX0=
+eyJoaXN0b3J5IjpbMTA5NDM3NTIwMiwxMjM0NDk5MjgzLC0xNz
+M4NDY5MzExLC0xNTU0MTU2NjA1LDc5ODE5MDQyNSwxODMyNjgx
+NDcwLDE0NzY5NjIwMDUsNTcyMTQ0LDIxNDEzNTIxMzgsLTE4OT
+gwMDI2OTYsMTQ1NjQ4Mjk4NCwzOTkzODUyMjIsMTcyOTc3NTUw
+MCwxODkyMTA3NTA5LDE0MTk2MDA1NjUsLTEzODAxODM3NjEsMT
+A3MjQ1MjQ1NCwtNTE5OTQ4OTgzLC0xNDY3ODU2NTE3LDcwOTY0
+OTI4XX0=
 -->
