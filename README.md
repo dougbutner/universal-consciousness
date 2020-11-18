@@ -24,7 +24,7 @@ Open the sole [folder](https://github.com/dougbutner/universal-consciousness/tre
 9. [Putting it All Together](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/9.%20Putting%20it%20All%20Together.md)
 10. [Outro](https://github.com/dougbutner/universal-consciousness/blob/master/The%207-11-12%20Model%20of%20Universal%20Consciousness/10.%20Outro.md) 
 
-# Errata / Clarifications
+# Errata / Clarifications / Omissions
 
 **Clarification: Archangels in the Upper Matrices (Video Course Only)**
 Lesson: **Matrices**
@@ -115,11 +115,11 @@ ___
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU4OTMxNzksLTk3NTAwMDg4LDEwOT
-QzNzUyMDIsMTIzNDQ5OTI4MywtMTczODQ2OTMxMSwtMTU1NDE1
-NjYwNSw3OTgxOTA0MjUsMTgzMjY4MTQ3MCwxNDc2OTYyMDA1LD
-U3MjE0NCwyMTQxMzUyMTM4LC0xODk4MDAyNjk2LDE0NTY0ODI5
-ODQsMzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMTg5MjEwNzUwOSwxND
-E5NjAwNTY1LC0xMzgwMTgzNzYxLDEwNzI0NTI0NTQsLTUxOTk0
-ODk4M119
+eyJoaXN0b3J5IjpbLTE5MDI2NTQyMzAsLTEwNTU4OTMxNzksLT
+k3NTAwMDg4LDEwOTQzNzUyMDIsMTIzNDQ5OTI4MywtMTczODQ2
+OTMxMSwtMTU1NDE1NjYwNSw3OTgxOTA0MjUsMTgzMjY4MTQ3MC
+wxNDc2OTYyMDA1LDU3MjE0NCwyMTQxMzUyMTM4LC0xODk4MDAy
+Njk2LDE0NTY0ODI5ODQsMzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMT
+g5MjEwNzUwOSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLDEwNzI0
+NTI0NTRdfQ==
 -->
