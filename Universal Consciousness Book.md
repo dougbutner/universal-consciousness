@@ -551,7 +551,7 @@ This model shows how everything is not only entangled at one point from the Big 
 
 #### Meaning in Ascension
 
-The key here is that each center of truth has a higher resonance within it’s bubble that it creates and is connected to. **So consciousness creates its truth that becomes more real than the universal truth, at least to the observer at that level.** This is why humans can create our own reality that may be contradictory to the universal nature. The same incredible ability to override higher truths creates tension when ascending, keeping us trapped at the third level of consciousness. To ascend, we must only **align our truth with the higher bubbles**. For humans, this means to align with love, accepting we are loved and we love all we connect with, our most high past and future realiurther into [Aquarius Academy](https://aquarius.academy/) [⨇](https://aquarius.academy/), we’ll talk in great depth.
+The key here is that each center of truth has a higher resonance within it’s bubble that it creates and is connected to. **So consciousness creates its truth that becomes more real than the universal truth, at least to the observer at that level.** This is why humans can create our own reality that may be contradictory to the universal nature. The same incredible ability to override higher truths creates tension when ascending, keeping us trapped at the third level of consciousness. To ascend, we must only **align our truth with the higher bubbles**.To ascend, we must only align our truth with the higher bubbles. For humans, this means to align with love in the past and future through the Now, accepting we are loved, and that we love all we connect with. Further into [Aquarius Academy](https://aquarius.academy/) [⨇](https://aquarius.academy/), we’ll talk in great depth.
 
 ### Sources
 
@@ -560,10 +560,4 @@ The key here is that each center of truth has a higher resonance within it’s b
 ### Thank you for reading 🙏
 
 
-[
-
 ![](https://substack-post-media.s3.amazonaws.com/public/images/0550bdd1-3a25-474b-af2b-70c6e5783b97_800x74.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0550bdd1-3a25-474b-af2b-70c6e5783b97_800x74.png)
