@@ -4,7 +4,7 @@
 # About This Repo
 This repo holds a summary of a model of universal structure and consciousness. All lessons are in Markdown format, with images and sources where applicable.
 
-This content was created for a video course called **Universal Consciousness: Densities, Dimensions, Matrices + Grids**, now available on [**aquarius.academy**](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/), [**udemy**](https://www.udemy.com/universal-consciousness), and [**youtube**](https://www.youtube.com/playlist?list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1).
+This content was created for a video course called **Universal Consciousness: Densities, Dimensions, Matrices + Grids**, now available in PDF and video on [**in.aquarius.academy**](https://aquariusacademy.gumroad.com/l/universal-consciousness) with the new lesson on Ascension through the densities, [**udemy**](https://www.udemy.com/universal-consciousness), and [**youtube**](https://www.youtube.com/playlist?list=PLRRVgL5-YYRXx2wwGewdBxUl5Mr5--4u1).
 
 The version on [**aquarius.academy**](https://aquarius.academy/learn/universal-consciousness-densities-dimensions-matrices-grids/) also includes the corresponding full text from this repository with each video lesson.
 
@@ -64,7 +64,7 @@ Answer these questions to test your comprehension and find where you would like 
 
 # Video Course Image / Video Credits
 
-[ Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) by Maria Celeste G VelAja TalaLei
+[Fractal Light tree Image](http://theseraphimproject2012-2027.spruz.com/view/photo/photos.htm?id=F1FFAB99-512A-4AD1-8A4A-40F35A890C71) by Maria Celeste G VelAja TalaLei
 
 
 [Metatron Cube Visualizations](https://www.youtube.com/watch?v=ONZX9GeeygY)
@@ -84,7 +84,7 @@ Music: [https://www.purple-planet.com](https://www.purple-planet.com/)
 
 Script by [Douglas Butner](https://douglas.life) 
 
-Video editing by [Karelia Blum](https://www.instagram.com/the_blum_universe/)
+Video editing by [Karelia Blum](https://www.instagram.com/kareliablum/)
 
 
 
@@ -112,14 +112,3 @@ ___
 ![](https://cdn-images-1.medium.com/max/2160/1*wgZ678QUqo_Ue3y2S-FHBQ.png)
 
 ___
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI2NTQyMzAsLTEwNTU4OTMxNzksLT
-k3NTAwMDg4LDEwOTQzNzUyMDIsMTIzNDQ5OTI4MywtMTczODQ2
-OTMxMSwtMTU1NDE1NjYwNSw3OTgxOTA0MjUsMTgzMjY4MTQ3MC
-wxNDc2OTYyMDA1LDU3MjE0NCwyMTQxMzUyMTM4LC0xODk4MDAy
-Njk2LDE0NTY0ODI5ODQsMzk5Mzg1MjIyLDE3Mjk3NzU1MDAsMT
-g5MjEwNzUwOSwxNDE5NjAwNTY1LC0xMzgwMTgzNzYxLDEwNzI0
-NTI0NTRdfQ==
--->
